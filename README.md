@@ -58,16 +58,13 @@ Saya memiliki ketertarikan yang kuat dalam merancang dan membangun aplikasi web,
 ## 🚀 Proyek Unggulan
 
 <p align="center">
-  <a href="https://github.com/andimasramadana/NAMA_REPO_1">
+  <a href="https://github.com/andimasramadana/hotel-wikrama">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andimasramadana&repo=NAMA_REPO_1&theme=radical&hide_border=true&bg_color=00000000" alt="Proyek 1"/>
   </a>
-  <a href="https://github.com/andimasramadana/NAMA_REPO_2">
+  <a href="https://github.com/andimasramadana/web-sejarah">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andimasramadana&repo=NAMA_REPO_2&theme=radical&hide_border=true&bg_color=00000000" alt="Proyek 2"/>
   </a>
 </p>
-
-> 💡 Ganti `NAMA_REPO_1` dan `NAMA_REPO_2` dengan nama repository asli kamu supaya kartu proyeknya muncul.
-
 <br/>
 
 ## 📫 Mari Terhubung!
